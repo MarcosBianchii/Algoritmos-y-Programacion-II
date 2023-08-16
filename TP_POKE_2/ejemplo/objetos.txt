@@ -1,0 +1,8 @@
+habitacion;Una habitación de la que no podes escapar;false
+pokebola;Una poquebola roja y blanca;true
+llave;Llave con forma de pikachu;true
+puerta;La puerta de salida;false
+puerta-abierta;La puerta está abierta, podes salir;false
+cajon;Un cajon con forma de Optimus Prime;false
+pc;Una PC para conectarte al Meet de Algo2;true
+enchufe;Un enchufe de electricidad en la pared;false
